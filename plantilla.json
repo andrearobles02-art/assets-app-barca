@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Marc-André ter Stegen",
+    "dorsal": 1,
+    "posicion": "Portero",
+    "nacionalidad": "Alemania",
+    "edad": 32,
+    "imagenUrl": "https://i.imgur.com/8QfZ4Qx.png"
+  },
+  {
+    "nombre": "Ronald Araújo",
+    "dorsal": 4,
+    "posicion": "Defensa",
+    "nacionalidad": "Uruguay",
+    "edad": 25,
+    "imagenUrl": "https://i.imgur.com/Vx7ZC0E.png"
+  },
+  {
+    "nombre": "Jules Koundé",
+    "dorsal": 23,
+    "posicion": "Defensa",
+    "nacionalidad": "Francia",
+    "edad": 26,
+    "imagenUrl": "https://i.imgur.com/kQ8Yx8p.png"
+  },
+  {
+    "nombre": "Alejandro Balde",
+    "dorsal": 3,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 21,
+    "imagenUrl": "https://i.imgur.com/3Q2ZQ9l.png"
+  },
+  {
+    "nombre": "Pedri",
+    "dorsal": 8,
+    "posicion": "Mediocampista",
+    "nacionalidad": "España",
+    "edad": 22,
+    "imagenUrl": "https://i.imgur.com/9Y3hP1l.png"
+  },
+  {
+    "nombre": "Frenkie de Jong",
+    "dorsal": 21,
+    "posicion": "Mediocampista",
+    "nacionalidad": "Países Bajos",
+    "edad": 27,
+    "imagenUrl": "https://i.imgur.com/1Z8nX4d.png"
+  },
+  {
+    "nombre": "Gavi",
+    "dorsal": 6,
+    "posicion": "Mediocampista",
+    "nacionalidad": "España",
+    "edad": 20,
+    "imagenUrl": "https://i.imgur.com/Y6X5r4J.png"
+  },
+  {
+    "nombre": "Lamine Yamal",
+    "dorsal": 19,
+    "posicion": "Extremo",
+    "nacionalidad": "España",
+    "edad": 17,
+    "imagenUrl": "https://i.imgur.com/M7bH2Yk.png"
+  },
+  {
+    "nombre": "Robert Lewandowski",
+    "dorsal": 9,
+    "posicion": "Delantero",
+    "nacionalidad": "Polonia",
+    "edad": 36,
+    "imagenUrl": "https://i.imgur.com/0XKzn3T.png"
+  },
+  {
+    "nombre": "Raphinha",
+    "dorsal": 11,
+    "posicion": "Extremo",
+    "nacionalidad": "Brasil",
+    "edad": 28,
+    "imagenUrl": "https://i.imgur.com/6YbHc2T.png"
+  }
+]
